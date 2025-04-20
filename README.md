@@ -1,16 +1,10 @@
-🕹️ Platformer Game
+## 🕹️ Platformer Game
 
 A simple 2D platformer written in C++ using raylib. Jump, collect fruits, and dodge enemies!
 
+> Original solo project created using C++ and raylib. Applied what I learned from smaller guided games to build a complete game from scratch, including level logic, enemies, and UI.
 
-
-📷 Little GIF from the game
-
-![Gameplay GIF](https://i.imgur.com/zypqld8.gif)
-
-
-
-🚀 Features
+## 🚀 Features
 
 Tile-based levels loaded from .txt files
 
@@ -22,10 +16,14 @@ Basic UI (score, lives, pause menu)
 
 Game state handling (menu, playing, pause, game over, win screen)
 
-🛠️ Requirements
+## 🛠️ Requirements
 
 C++ compiler
 
 raylib installed
 
 CMake (if you're using a build system like CLion)
+
+## 📷 Little GIF from the game
+
+![Gameplay GIF](https://i.imgur.com/zypqld8.gif)
